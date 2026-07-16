@@ -117,5 +117,4 @@ In order to cite our work, we kindly ask interested people to use the following 
 # Requests for Modifications
 If you are using WindFlow for your purposes and you are interested in specific modifications of the API (or of the runtime system), please send an email to the maintainer.
 
-# Contributors
-The main developer and maintainer of WindFlow is [Gabriele Mencagli](mailto:gabriele.mencagli@unipi.it) (Department of Computer Science, University of Pisa, Italy).
+
